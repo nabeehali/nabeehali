@@ -12,3 +12,4 @@ I hold a Computer Science degree from the University of Jordan, which equipped m
 
 I'm always looking for new challenges and opportunities to learn and grow. Feel free to reach out if you have any questions or interesting projects in mind!
 
+Happy coding! 😊🚀
