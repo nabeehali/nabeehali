@@ -1,16 +1,14 @@
-### Hi there 👋
+ Hi there , I'm Nabeeh Abu Ali! 👋
+ 
+I'm a Flutter developer currently working at Integrated Technology Group (ITG) in Amman, Jordan. I'm passionate about building beautiful and functional mobile applications. I bring 2 years of experience using Flutter to create user-centric experiences. 
 
-<!--
-**nabeehali/nabeehali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I hold a Computer Science degree from the University of Jordan, which equipped me with a strong foundation in programming concepts and problem-solving skills.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+I'm always looking for new challenges and opportunities to learn and grow. Feel free to reach out if you have any questions or interesting projects in mind!
+
