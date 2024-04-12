@@ -1,6 +1,7 @@
 
  
   ![Animation](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)
+  
 
 Hi there , I'm Nabeeh Abu Ali! 👋
 I'm a Flutter developer currently working at Integrated Technology Group (ITG) in Amman, Jordan. I'm passionate about building beautiful and functional mobile applications. I bring 2 years of experience using Flutter to create user-centric experiences. 
