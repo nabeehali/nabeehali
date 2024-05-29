@@ -8,6 +8,9 @@ I hold a Computer Science degree from the University of Jordan, which equipped m
 
 I'm always looking for new challenges and opportunities to learn and grow. Feel free to reach out if you have any questions or interesting projects in mind!
 
+Link Linked In: https://www.linkedin.com/in/nabeeh-abuali/
+Link Medium: https://medium.com/@nabeehabuali90
+
 Happy coding! 😊🚀
 
   ![Animation](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)
